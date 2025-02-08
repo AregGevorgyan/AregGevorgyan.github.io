@@ -16,15 +16,20 @@ I grew up in an immigrant family where education was valued and I saw firsthand 
 # Education
 
 University of Maryland, College Park, B.S. Computer Science, B.S. Mathematics
-August 2024 to expected May 2028
-Relevant Coursework: Computer Systems, Probability Theory, Mathematical Statistics, Intro to Advanced Calculus.
+
+- August 2024 to expected May 2028
+
+*Relevant Coursework*: Computer Systems, Probability Theory, Mathematical Statistics, Intro to Advanced Calculus.
 
 I am currently a junior by credits and in the University Honors program where I explore how my studies play a role in a border context, such as societal impacts of artificial intelligence.
 
 My involvements on campus include:
-Machine learning research project in the works for training efficient text embedding models
-Member of the competitive programing club where I apply algorithmic problem solving to implement maximally efficient C++ code to solve a problem
-Member of the Apex fund, a student run quantitative fund, where I am developing an open source financial model backtesting framework called Hindsight, found below
+
+- Machine learning research project in the works for training efficient text embedding models
+
+- Member of the competitive programing club where I apply algorithmic problem solving to implement maximally efficient C++ code to solve a problem
+
+- Member of the Apex fund, a student run quantitative fund, where I am developing an open source financial model backtesting framework called Hindsight, found below
 
 # Experience
 
