@@ -47,8 +47,18 @@ Visual Reality Development Intern, Earth System Science Interdisciplinary Center
 
 # Projects
 
-## Hicruit
+## Hicruit.us
+
+AI powered recruiting platform that automatically calls candidates for 10 minute screening interviews.
 
 ## Hindsight
 
 A financial model backtesting framework built in Python using JAX.
+
+## [M3 Math Modeling Challenge Solution: Modeling Homelessness in American Cities](https://areggevorgyan.github.io/files/M3_Math_Modeling_2024.pdf)
+
+In fall of 2024, I lead a team of four other students in the M3 Math Modeling Challenge to produce a recommendation report for the Secretary of Department of Housing and Urban Development. The report provided a plan for dealing with the homelessness crisis in American cities backed with mathematical modeling from past data.
+
+The paper consisted of three parts where the cities of Seattle, Washington and Albuquerque, New Mexico were used as sample cities to model national trends. For the first part we used an auto-regressive integrated moving average (ARIMA) model to predict the changes in housing supply for fixed time intervals in those cities. For the second part, we used multiple linear regression to forecast the changes in homelessness in those cities. For the third part, we used a monte carlo simulation to determine which variables are the most important and how adaptable our model is to unforeseen circumstances. The challenge also involved coming up with essential assumptions to simplify the problem and sensitivity analysis of our solutions. All the computations were done using Python and common data science libraries.
+
+The paper was a collaborative effort that I initiated and coordinated involving weeks of preparation and 14 hours straight of work during the challenge window to produce our solution. This challenge provided an opportunity to apply my mathematical skills along with my computational skills to bring the math to reality on a real world problem that can benefit society. My team’s solution scored in the top 20% of submission in 2024.
