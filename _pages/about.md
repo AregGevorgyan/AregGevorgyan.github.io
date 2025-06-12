@@ -8,8 +8,7 @@ profile:
   align: right
   image: Portrait.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Reach out to areg at terpmail dot umd dot edu</p>
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -20,13 +19,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm an undergraduate student at University of Maryland studying Mathematics and Computer Science. I am currently interning at the Collective Dynamics and Control Lab at UMD, as well as working on personal projects such as building machine learning algorithms from scratch and formalizing math in lean. I previously worked as a VR developer for the Earth Sciences department and led the Math Team at my high school.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m interested in everything related to mathematics and computer science, particularly areas that blur the lines between the two and have implications in both theory and practice, such as machine learning and algorithms. I’m also interested in Physics, Neuroscience, Economics, and occasionally ponder philosophy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out to me at 'areg at terpmail dot umd dot edu' or find me on:
