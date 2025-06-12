@@ -34,7 +34,6 @@ For installation and deployment details please refer to [INSTALL.md](INSTALL.md)
 For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
 
 ## Features
----
 
 ### CV
 
