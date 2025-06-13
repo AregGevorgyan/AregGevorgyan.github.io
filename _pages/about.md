@@ -28,4 +28,4 @@ Hi, I'm an undergraduate student at University of Maryland studying Mathematics 
 
 I’m interested in everything related to mathematics and computer science, particularly areas that blur the lines between the two and have implications in both theory and practice, such as machine learning and algorithms. I’m also interested in Physics, Neuroscience, Economics, and occasionally ponder philosophy.
 
-Feel free to reach out to me at `areg at terpmail dot umd dot edu` or find me on:
+Feel free to reach out to me at ```areg at terpmail dot umd dot edu``` or find me on:

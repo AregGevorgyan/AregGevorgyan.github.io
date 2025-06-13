@@ -33,6 +33,8 @@ For installation and deployment details please refer to [INSTALL.md](INSTALL.md)
 
 For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
 
+This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/)
+
 ## Features
 
 ### CV

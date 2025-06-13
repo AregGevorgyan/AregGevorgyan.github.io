@@ -1,15 +1,6 @@
 {
   "basics": {
-    "name": "Areg Gevorgyan",
-    "email": "areg@terpmail.umd.edu",
-    "url": "https://areggevorgyan.github.io/",
-    "profiles": [
-      {
-        "network": "Linkedin",
-        "username": "AregGevorgyan1",
-        "url": "https://www.linkedin.com/in/areggevorgyan1/"
-      }
-    ]
+    "LinkedIn": "https://www.linkedin.com/in/areggevorgyan1/"
   },
   "work": [
     {
