@@ -30,4 +30,4 @@ I’m interested in everything related to mathematics and computer science, part
 
 Feel free to reach out to me at ```areg at terpmail dot umd dot edu``` or find me on:
 
-<p style="text-align:center;">(Github)[https://github.com/AregGevorgyan/] / (LinkedIn)[https://www.linkedin.com/in/areggevorgyan1/]</p>
+<p style="text-align:center;">[Github](https://github.com/AregGevorgyan/) / [LinkedIn](https://www.linkedin.com/in/areggevorgyan1/)</p>

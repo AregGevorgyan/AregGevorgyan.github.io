@@ -16,6 +16,8 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+<p style="text-align:center;">[RSS feed](https://areggevorgyan.github.io/feed.xml)</p>
+
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
